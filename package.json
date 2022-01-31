@@ -1,0 +1,14 @@
+{
+  "name": "amaze",
+  "version": "1.0.0",
+  "description": "A maze generator",
+  "main": "index.js",
+  "author": "Mikko Reinikainen",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "lint": "./node_modules/.bin/prettier-standard --lint *.js; ./node_modules/.bin/prettier --write *.js"
+  },
+  "devDependencies": {
+  }
+}
